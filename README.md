@@ -1,4 +1,4 @@
-# 01-CSharpe-
+# Struct, Class, Sealed Class
 # Struct
 A struct is a `value type` . When a struct is created, the variable to which the struct is  
 assigned holds the struct's actual data. When the struct is assigned to a new variable, it is  
